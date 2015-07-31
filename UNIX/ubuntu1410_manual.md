@@ -39,3 +39,7 @@ sudo apt-get install sublime-text
 vimの設定に関して
 http://catcher-in-the-tech.net/1063/
 NERDTreeのインストール以外にも、おすすめのpluginがある。
+tpope/vim-fugitve 
+use Neobundle install this plugin.
+make git more powerful, for example git blame
+:Gblame will show that
